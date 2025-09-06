@@ -48,9 +48,7 @@ The final Felis Mockup features:
 
 ## 📸 Screenshots
 *( Already added )*
-
-![Home Screen](screenshot1.png)  
-![Alternate View](screenshot2.png)  
+ ---
 
 ## 🔗 Prototype
 [View Figma Prototype] (https://www.figma.com/proto/nhAgSkgPzBvG3jHR4uq4Zh/Felis---Landing-Page--Community-?page-id=0%3A1&node-id=702-2&t=IXy4HJIbk0HPBbI5-1 )
