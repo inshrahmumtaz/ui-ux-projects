@@ -1,0 +1,63 @@
+# Project 5: Digital Payment Card UI Mockup
+
+## 📌 Overview
+This project is a **digital payment card mockup**, designed in Figma.  
+The aim was to design a **modern and minimal card interface** that could be used in fintech or banking apps.
+
+---
+
+## 🎯 Problem
+Most digital cards in apps look too similar and lack creativity.  
+Common issues include:  
+- Overcrowded designs with too much text.  
+- Poor readability due to bad color contrast.  
+- Lack of uniqueness in branding.  
+
+---
+
+## ✨ Goal
+- Create a **simple, premium-looking digital card**.  
+- Use **bold colors** (purple gradients, black accents) to stand out.  
+- Keep text clear and readable (card number, name, expiry date).  
+- Ensure the design can fit into **fintech/banking app UIs**.  
+
+---
+
+## 🛠 Process
+1. **Research**  
+   - Looked at card designs from Revolut, Apple Card, and digital banks.  
+   - Studied color palettes and typography trends.  
+
+2. **Design**  
+   - Chose a **purple gradient background** for a sleek, premium vibe.  
+   - Placed card number and details with enough spacing for readability.  
+   - Added subtle shadows for depth and realism.  
+
+3. **Prototyping**  
+   - Placed the card mockup into mobile app screens to visualize real usage.  
+
+---
+
+## 💡 Solution
+The final card design is:  
+- **Minimal yet premium** → strong purple branding.  
+- **Readable and clean** → card details are clear, no clutter.  
+- **Scalable** → can be adapted to credit, debit, or virtual cards.  
+
+---
+
+## 📸 Screenshots
+*(Already added)*  
+
+
+---
+
+## 🔗 Prototype
+[View Figma Prototype](https://www.figma.com/design/bvhBxkCCu2HXq9Ngs4wsRL/Credit-Card?node-id=1-2&t=lwZBDnklKfG5anm4-1)  
+
+---
+
+## ✅ Key Takeaways
+- A digital card doesn’t need to be complex — **simplicity + strong colors** make it stand out.  
+- **Good typography & spacing** improve both aesthetics and usability.  
+- This design can seamlessly integrate into any **fintech mobile app**.  
