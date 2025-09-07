@@ -1,0 +1,68 @@
+# Project 4: Finance / Trading Portfolio App Mockup
+
+## 📌 Overview
+This project is a **finance and trading mobile app mockup**, designed in Figma.  
+The app provides users with an easy way to **track investments, manage portfolios, and monitor performance** with a modern and minimal UI.
+
+---
+
+## 🎯 Problem
+Many trading/finance apps feel **complex, cluttered, and overwhelming** for beginners.  
+Users struggle to:  
+- Understand **portfolio distribution** at a glance.  
+- Track investments with **clear progress indicators**.  
+- Access key actions quickly without too much navigation.  
+
+---
+
+## ✨ Goal
+- Design a **clean and simple UI** for tracking investments.  
+- Use **visual elements (charts, progress bars)** to show portfolio data.  
+- Keep the interface **beginner-friendly** but professional.  
+- Highlight insights with **dark + vibrant color themes**.  
+
+---
+
+## 🛠 Process
+1. **Research**  
+   - Reviewed apps like Binance, Robinhood, and Revolut.  
+   - Noted what makes them powerful but also intimidating for new users.  
+
+2. **Wireframing**  
+   - Planned out the dashboard, portfolio view, and investment breakdown.  
+
+3. **UI Design**  
+   - Dark-themed interface with **contrasting accent colors** (purple & orange).  
+   - Circular charts for portfolio breakdown.  
+   - Progress bars for savings/investment goals.  
+   - Modern typography for readability.  
+
+4. **Prototyping**  
+   - Linked screens in Figma to simulate user journey → checking balances, tracking progress, and viewing portfolio insights.  
+
+---
+
+## 💡 Solution
+The redesigned mockup features:  
+- **Clean dashboard** → balances & portfolio distribution visible at a glance.  
+- **Modern visualizations** → charts + progress bars for easy tracking.  
+- **Simplified navigation** → fewer distractions, more focus on insights.  
+- **Dark theme UI** → feels premium & user-friendly.  
+
+---
+
+## 📸 Screenshots
+*(Already added)*  
+
+
+---
+
+## 🔗 Prototype
+[View Figma Prototype](https://www.figma.com/proto/OEz21mBeG2XxOl93RF4ASa/Portfolio-project?page-id=0%3A1&node-id=2-2&viewport=-146%2C203%2C0.51&t=8jls4I6HmAfIMyBj-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=2%3A2&show-proto-sidebar=1)  
+
+---
+
+## ✅ Key Takeaways
+- Finance apps don’t have to feel intimidating → **clarity & visuals** improve usability.  
+- Dark theme + accent colors = modern + professional look.  
+- Designing for **both beginners and advanced users** requires balance between simplicity and detail.  
